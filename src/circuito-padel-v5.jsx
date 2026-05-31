@@ -461,7 +461,7 @@ function Portal({ jugadores, torneos, precioBotella, alias, pagos, setPagos }) {
           <div className="portal-hero">
             <img src={LOGO_B64} alt="Circuito Pádel TRH" className="hero-logo" />
             <h1>Circuito Pádel <span>TRH</span></h1>
-            <p>Termas de Río Hondo · Consultá tu estado y realizá pagos</p>
+            <p>Termas de Río Hondo · Consultá tu estado</p>
           </div>
           <div className="card">
             <span className="card-label">Ingresá tu DNI</span>
